@@ -4,6 +4,9 @@
 *.sty
 /fonts
 
+# emacs
+*~
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
